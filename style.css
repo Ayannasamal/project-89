@@ -1,0 +1,60 @@
+body
+{
+	background:url("https://th.bing.com/th/id/R.a46c09eefb5e934e887f7e8c3e8d239a?rik=KfRaEmssLB3a8A&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fvPopEp4.png&ehk=c4VRaViorttScYwHvQmsZEKf4RtXgg7OSUwyckwPcbY%3d&risl=&pid=ImgRaw&r=0");
+    background-size: cover;
+font-family: fira sans;
+color: black;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 10px;
+        border: solid;
+        border-color: #c6aae4;
+	}
+
+
+#player1_name, #player2_name
+{
+	font-family: tahoma;
+    display: inline-block;
+	margin-left: 20px;
+    }
+
+    h1{
+        font-family: dangrek;
+        color:black;
+        font-size: 40px;
+    }
+    h3{
+        font-family: dangrek;
+       color: black;
+       font-size: 30px;
+    }
+    label{
+        font-family: fira sans;
+        color: black;
+    font-size: 20px;
+    }
+
+    #button_addUser{
+        color: black;
+    background: linear-gradient(#c6aae4, #dfbbda, aliceblue);
+    border: solid;
+    border-color:#c6aae4;
+    font-size: 18px;
+    font-weight: bold;
+    width: 20%; 
+    height: 40px;
+}
+
+    #button_addUser:hover{
+        border-color: black;
+        background: linear-gradient(aliceblue, #dfbbda, #c6aae4);
+      
+    }
+
+
